@@ -28,8 +28,8 @@ Here are some of the projects I've worked on that showcase my capabilities:
 
 I love connecting with other data professionals and tech enthusiasts. If you want to collaborate on a project or just chat about data, reach out to me here:
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/jw-data/
+- **Email:** jwatterson99@proton.me
 
 ## Recent Activities 📈
 
