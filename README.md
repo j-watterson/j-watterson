@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-Hello, I'm Jonathon Watterson, a data enthusiast passionate about transforming raw data into clear, actionable insights. I specialize in data analysis and data science, with a focus on improving business decisions and outcomes through robust data-driven strategies.
+Hello, I'm Jonathon Watterson, a data engineer passionate about transforming raw data into clear, actionable insights. I specialize in data analysis and data science, with a focus on improving business decisions and outcomes through robust data-driven strategies.
 
 ## About Me 📖
 
