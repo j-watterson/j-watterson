@@ -26,21 +26,4 @@ I love connecting with other data professionals and tech enthusiasts. If you wan
 
 - **LinkedIn:** [jw-data](https://www.linkedin.com/in/jw-data/)
 - **Email:** jwatterson99@proton.me
-
-## Recent Activities 📈
-
-Here's what I've been working on lately:
-
-```markdown
-- 🔭 I’m currently working on a climate change analysis project.
-- 🌱 I’m currently learning advanced techniques in deep learning.
-- 👯 I’m looking to collaborate on projects that aim for social impact, particularly in sustainable development.
-- 🤔 I’m looking for help with NLP applications in educational technology.
-- 💬 Ask me about anything related to data analysis, machine learning, or career advice in data science.
-```
-
-Thank you for visiting my profile! Feel free to explore my repositories, and let's get in touch to make something amazing together.
-
----
-
-Feel free to customize further as needed!
+- **Portfolio:** https://www.jwatterson.com/
