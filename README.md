@@ -1,7 +1,3 @@
-Sure! Here's a README template for your GitHub profile repository that aligns with your skills as a data analyst and data scientist:
-
----
-
 # Welcome to My GitHub! 👋
 
 Hello, I'm Jonathon Watterson, a data enthusiast passionate about transforming raw data into clear, actionable insights. I specialize in data analysis and data science, with a focus on improving business decisions and outcomes through robust data-driven strategies.
@@ -20,15 +16,15 @@ Hello, I'm Jonathon Watterson, a data enthusiast passionate about transforming r
 
 Here are some of the projects I've worked on that showcase my capabilities:
 
-- **Sales Forecasting Model:** Developed a model to predict sales trends, improving accuracy and helping the sales team to strategize effectively.
-- **Customer Segmentation in Retail:** Utilized clustering techniques to segment customers, significantly enhancing marketing strategies.
-- **Real-Time Data Dashboard:** Created a dashboard to monitor real-time data streams and provide actionable insights at a glance.
+1. **Sentiment-Analysis-BERT:** This project demonstrates how to perform sentiment analysis using BERT, a state-of-the-art language model for natural language processing. The repository includes code for data preprocessing, loading a pretrained BERT model, and fine-tuning it for sentiment classification. It is tailored for intermediate Python users with experience in libraries such as NumPy, Pandas, and PyTorch. The project leverages a cloud-based environment to provide practical, hands-on experience in implementing machine learning solutions for text data. Feel free to explore, contribute, or provide feedback!
+
+2. **COVID-19 Analysis (in R) — Local and Global:** This repository contains an analysis of COVID-19 data at the national, state, and county levels in the United States, as well as global data. The analysis examines the progression of COVID-19 cases and deaths using data from The New York Times and the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
 
 ## Connect With Me 🌐
 
 I love connecting with other data professionals and tech enthusiasts. If you want to collaborate on a project or just chat about data, reach out to me here:
 
-- **LinkedIn:** https://www.linkedin.com/in/jw-data/
+- **LinkedIn:** [jw-data](https://www.linkedin.com/in/jw-data/)
 - **Email:** jwatterson99@proton.me
 
 ## Recent Activities 📈
@@ -43,8 +39,8 @@ Here's what I've been working on lately:
 - 💬 Ask me about anything related to data analysis, machine learning, or career advice in data science.
 ```
 
-Thank you for visiting my profile! Feel free to explore my repositories and let's get in touch to make something amazing together.
+Thank you for visiting my profile! Feel free to explore my repositories, and let's get in touch to make something amazing together.
 
 ---
 
-This README is designed to be both informative and welcoming, giving viewers a clear sense of your professional identity and inviting them to connect with you. You can customize the links and the projects section further based on your actual content and professional links.
+Feel free to customize further as needed!
