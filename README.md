@@ -1,4 +1,4 @@
-# Jonathon Watterson
+# Jon Watterson
 
 ### Data Engineer building reliable, production-minded analytics platforms
 
